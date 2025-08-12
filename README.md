@@ -1,4 +1,4 @@
-# 3D Brownian motion simulation
+# 3D Brownian Motion Simulation
 
 파이썬으로 만든 3D 브라운 운동 시뮬레이션
 

@@ -17,7 +17,7 @@ def init():
 
 
 def init_ax():
-    ax.set_title("3D Brownian motion simulation")
+    ax.set_title("3D Brownian Motion Simulation")
     ax.set(xlim3d=[-10, 10], xlabel="X-axis")
     ax.set(ylim3d=[-10, 10], ylabel="Y-axis")
     ax.set(zlim3d=[-10, 10], zlabel="Z-axis")
